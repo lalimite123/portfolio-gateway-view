@@ -84,18 +84,6 @@ const Portfolio = () => {
           </button>
         </div>
       </div>
-
-      {/* Non sécurisé Section */}
-      <div className="fixed bottom-0 left-0 right-0 bg-deep-purple py-4">
-        <div className="w-full max-w-7xl mx-auto px-4">
-          <p className="text-mint text-center">
-            Non sécurisé — 18.215.180.215
-          </p>
-          <div className="w-full bg-mint/20 h-1 mt-2">
-            <div className="bg-mint h-full w-1/3"></div>
-          </div>
-        </div>
-      </div>
     </div>
   );
 };
